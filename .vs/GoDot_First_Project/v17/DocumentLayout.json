@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\godotProject\\godot_first_project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38F70EB1-8274-4472-B665-AB63B264655C}|GoDot_First_Project.csproj|e:\\godotproject\\godot_first_project\\sprite2dcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F70EB1-8274-4472-B665-AB63B264655C}|GoDot_First_Project.csproj|solutionrelative:sprite2dcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38F70EB1-8274-4472-B665-AB63B264655C}|GoDot_First_Project.csproj|e:\\godotproject\\godot_first_project\\godotsc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38F70EB1-8274-4472-B665-AB63B264655C}|GoDot_First_Project.csproj|solutionrelative:godotsc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -51,6 +55,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Sprite2dControl.cs",
+              "DocumentMoniker": "E:\\godotProject\\godot_first_project\\Sprite2dControl.cs",
+              "RelativeDocumentMoniker": "Sprite2dControl.cs",
+              "ToolTip": "E:\\godotProject\\godot_first_project\\Sprite2dControl.cs",
+              "RelativeToolTip": "Sprite2dControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:23:19.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GoDotSc.cs",
               "DocumentMoniker": "E:\\godotProject\\godot_first_project\\GoDotSc.cs",
               "RelativeDocumentMoniker": "GoDotSc.cs",
