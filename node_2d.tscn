@@ -7,6 +7,9 @@
 [node name="Sprite2D" parent="." instance=ExtResource("1_x5cr7")]
 position = Vector2(605, 320)
 
+[node name="Timer" type="Timer" parent="Sprite2D"]
+autostart = true
+
 [node name="Button" type="Button" parent="."]
 offset_left = 159.0
 offset_top = 158.0
