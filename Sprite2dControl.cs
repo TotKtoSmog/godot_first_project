@@ -10,14 +10,11 @@ public partial class Sprite2dControl : Sprite2D
 	}
 	public override void _Process(double delta)
 	{
-
 		Rotation += Rotait(_angularSpeed, (float)delta);
-		
 		Position += MoveDirection((float)delta);
-
+		
 		GD.Print($"Position: {Position}");
 		GD.Print($"Rotation: {Rotation}");
-
 	}
 	public Sprite2dControl() => GD.Print("Hello, world!");
 

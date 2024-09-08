@@ -20,4 +20,8 @@ public partial class GoDotSc : Sprite2D
 
 	}
 	public GoDotSc() => GD.Print("Hello, world!");
+	private void OnButtonPressed()
+	{
+		SetProcess(!IsProcessing());
+	}
 }

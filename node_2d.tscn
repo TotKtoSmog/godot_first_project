@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://drkdmv6d6mgtl"]
+
+[ext_resource type="PackedScene" uid="uid://cw0qu3v73d6sq" path="res://GoDotSC.tscn" id="1_x5cr7"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite2D" parent="." instance=ExtResource("1_x5cr7")]
+position = Vector2(605, 320)
+
+[node name="Button" type="Button" parent="."]
+offset_left = 159.0
+offset_top = 158.0
+offset_right = 380.0
+offset_bottom = 251.0
+text = "Toggle motion"
+
+[connection signal="pressed" from="Button" to="Sprite2D" method="OnButtonPressed"]
